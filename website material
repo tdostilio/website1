@@ -1,0 +1,15 @@
+Webpage Template:
+
+
+Title:  Uncertainty
+
+Summary: This is my first foray into web development. A project I hope has lasting implications of the rest of my life. I recently quit my Wall Street job where I made $150k last year at 23 years old by trading municipal bonds. The job itself was torturous, my first year I spent anxiously hating every day and afraid of work. My Sunday afternoons were filled with a sense of absolutely unshakeable dread. My days were spent running a million miles an hour underneath an unforgivable tyrant of a boss. A rotation to a new desk the following year put me in a different situation. A job where I watched the clock crawl by, quietly waiting for the day to end. A job which I can now say I was overpaid to do. It was then I realized the crux of my problem, the unhappiness, the cranky, bitter attitude that had grown largely unchecked over the past two years was unchanged. My move to a calmer, less stressful environment and healthier city had improved my happiness, but only marginally. It became abundantly clear that the sixty hours a week I was spending at work was the driver of my unhappiness. I was working only for the money, doing a job that went against everything I believed in. The finite nature of trading, where no value is created at the end of the day, the inherent conflict of interest with our so called “clients”, the cutthroat self serving tendencies of other traders and salesmen within the same firm. 
+
+
+Color:
+#97CE96
+
+Text from Google:
+<link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
+
+font-family: 'Inconsolata', monospace;
